@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an IT Manager with extensive experience in ISP networking, hardware, and infrastructure management. Passionate about home automation and IoT development, I create smart solutions using Arduino, Raspberry Pi, ESP8266, and ESP32.<br><br>As a Full-Stack Developer, I specialize in:<br><br>Frontend: HTML, CSS, JavaScript (React, Vue)<br>Backend: PHP, MySQL, Node.js<br>Networking: Cisco, TP-Link, CCNA, CCNP<br>IoT & Automation: Embedded systems, remote monitoring solutions<br>I’m also an IT Solutions Specialist, helping businesses implement custom IT strategies to optimize performance and security.
+I'm an IT Manager with extensive experience in ISP networking, hardware, and infrastructure management. Passionate about home automation and IoT development, I create smart solutions using Arduino, Raspberry Pi, ESP8266, and ESP32.<br><br>As a Full-Stack Developer, I specialize in:<br><br>Frontend: HTML, CSS, JavaScript (React, Vue)<br>Backend: PHP, MySQL, Node.js<br>Networking: Cisco, TP-Link, CCNA<br>IoT & Automation: Embedded systems, remote monitoring solutions<br>I’m also an IT Solutions Specialist, helping businesses implement custom IT strategies to optimize performance and security.
 
 
 ## 🌐 Socials:
